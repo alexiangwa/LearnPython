@@ -54,3 +54,4 @@ print(int(my_name))
 # bool(not-empty)=True
 # any datatype can be converted to string but strings can't be converted to other datatyeps (always)
 # define your version as a string
+
